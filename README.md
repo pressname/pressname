@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pressname
-- 👀 I’m interested in cyber security and cryptographic
+- 👀 I’m interested in cyber security and cryptography
 - 🌱 I’m currently learning blazor
 - 📫 How to reach me: write a mail to pressname(at)protonmail.ch
 
