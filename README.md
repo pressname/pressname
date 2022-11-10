@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pressname
 - 👀 I’m interested in cyber security and cryptography
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning blazor server
 - 📫 How to reach me: write a mail to pressname(at)protonmail.ch
 
 <!---
