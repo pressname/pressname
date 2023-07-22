@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pressname
 - 👀 I’m interested in cyber security and cryptography
-- 🌱 I’m currently learning blazor server
-- 📫 How to reach me: write a mail to pressname(at)protonmail.ch
+- 🌱 I’m currently learning rust
 
 <!---
 pressname/pressname is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
